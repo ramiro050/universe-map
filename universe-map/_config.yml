@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Music of the Spheres.
+tagline:             'Space Cartography'
+description:         'In this site, I will document my research progress.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/universe-map'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Ramiro Leal-Cavazos
+  url:               https://twitter.com/ramlealc
+  email:             ramiro2@stanford.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
