@@ -6,7 +6,6 @@ rights: Public Domain
 publication-date: 2019
 toc:
 - Potential Expansion
-- Example
 ---
 
 ---
@@ -87,5 +86,3 @@ $$
 such that $$a_{\ell m}=R_{\ell,m,n_x,n_y,n_z}f_{n_x,n_y,n_z}$$, where Einstein's summation convention is being used.
 
 ---
-
-## Example

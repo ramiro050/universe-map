@@ -1,9 +1,9 @@
-# Built with Jekyll 3.2.0
+ # Built with Jekyll 3.2.0
 
 # Setup
 title:               Music of the Spheres.
 tagline:             'Space Cartography'
-description:         'In this site, I will document my research progress.'
+description:         'The goal of this project is to create a low resolution map of the entire visible universe plus regions slightly outside of the horizon that can be evolved with time.'
 url:                 'http://ramiro050.github.io'
 baseurl:             '/universe-map'
 
