@@ -14,6 +14,8 @@ publication-date: 2019
 * ToC
 {:toc}
 
+---
+
 ## Why this is Important
 
 When recovering the potential, it is important that the features we see in it are not dependent on the size of the box or the orientation of the box with respect to the CMB, for we want the potential features to be as much as possible dependent only on the CMB.

@@ -14,6 +14,8 @@ publication-date: 2019
 * ToC
 {:toc}
 
+---
+
 ## Generating a Fake CMB
 
 In the following CMBs, we will choose coefficients such that their magnitude decays as a power law and their phases vary uniformly in the range 0 to $$2\pi$$.
