@@ -14,7 +14,7 @@ publication-date: 2019
 * ToC
 {:toc}
 
-## Why this is Important.
+## Why this is Important
 
 When recovering the potential, it is important that the features we see in it are not dependent on the size of the box or the orientation of the box with respect to the CMB, for we want the potential features to be as much as possible dependent only on the CMB.
 
@@ -57,6 +57,7 @@ Notice that all the curves follow a similar pattern of being high in the beginni
 Let's now look a little closer at the drop in the plot above. In particular, lets look at what the potential looks like for $$L=5$$ when the radius of the CMB (as a fraction of the box size) varies in the range $$[0.083, 0.312]$$.
 
 {% include plotly/size-of-box/potential-with-varying-cmb-radius.html %}
+ <br/>
 
 Notice that the potential varies widely in structure. Moreover, at around $$r=0.3$$, the equipotential surfaces becomes very close to the CMB sphere. As we will see, this has to do with the fact that for those values of radii, the minimum and maximum of the recovered potential are very large in magnitude.
 
@@ -70,8 +71,8 @@ In the following plot, we can see the minimum and maximum of the recovered poten
 
 Since there is no reason why the CMB should be a minimum in magnitude for all of space, then we can use this to optimize the radius of the CMB sphere relative to the box.
 
----
+An interesting property is that the min and max of the potential varies less and less as the box size increase, and it approaches the min and max of the CMB.
 
-## Are these Features Present for $$L=7$$?
+**Note:** The plot for the other sized boxes can be made visible by clicking on their respective legend element in the plot.
 
 ---

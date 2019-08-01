@@ -8,6 +8,12 @@ publication-date: 2019
 
 ---
 
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
 ## Generating a Fake CMB
 
 In the following CMBs, we will choose coefficients such that their magnitude decays as a power law and their phases vary uniformly in the range 0 to $$2\pi$$.
@@ -46,9 +52,7 @@ Summing over $$m$$ will then lead to a real result.
 
 ## Recovering Potential
 
-For the next part of this notebook, we will assume that there is no covariance in the CMB. The covariance will be included at later point.
-
-### Recovering Fourier Coefficients
+For the next part of this post, we will assume that there is no covariance in the CMB. The covariance will be included at later point.
 
 Using the fact that
 
@@ -56,7 +60,7 @@ $$f_n= A^{-1}_{nn'}B_{n'}$$
 
 where
 
-$$A_{nn'}=R^* _ {ny}R_{yn'}+C^{-1}_{nn'}$$,
+$$A_{nn'}=R^* _ {ny}R_{yn'}+C^{-1}_{nn'}$$
 
 and
 
@@ -70,7 +74,7 @@ we can determine the $$f_n$$ values.
 
 ## Recovered CMB
 
-We can now use the response matrix and the recovered Fourier coefficients to extract the coefficients $$a_\ell m$$. Then, evaluating
+We can now use the response matrix and the recovered Fourier coefficients to extract the coefficients $$a_{\ell m}$$. Then, evaluating
 
 $$\Phi(\vec{x}=1)=\sum_{\ell}\sum_{m=-\ell}^\ell a_{\ell m}Y_\ell^m$$
 
