@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(UNDER CONSTRUCTION) Parametrizing CMB into a Nesting of Contours"
+title: "Parametrizing CMB into a Nesting of Contours"
 author: Ramiro Leal-Cavazos
 rights: Public Domain
 publication-date: 2019
@@ -37,7 +37,3 @@ Including the circumference, there are 3 local maxima, 3 local minima, and 4 sad
 ## Algorithm
 
 For low number of extrema, one can easily create a tree characterizing the nesting of the contours by hand. However, the number of extrema grows as $$\ell ^2$$, where $$\ell$$ is the highest degree of spherical harmonics used. Therefore, the rest of this post will be devoted to explaining how to efficiently get the nesting from any CMB using image processing.
-
-### Reducing Dimension of Problem
-
-At first glance, it seems that the problem requires to look in two dimensions, to see if a contour is inside another or not. However, it turns out that the problem of capturing the nesting of contours can be reduced to a one dimensional problem.
